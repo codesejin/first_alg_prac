@@ -22,6 +22,6 @@ public class PracArrayList {
         System.out.println("li = " + li);
 
         //배열과 리스트이 차이?
-        // 메소드를 활용여부..
+        //메소드를 활용여부..배열의 문제점 보완된게 리스트, 대량 데이터 가능
     }
 }
